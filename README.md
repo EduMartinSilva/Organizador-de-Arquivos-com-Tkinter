@@ -10,4 +10,4 @@ Projeto feito em Python que organiza arquivos automaticamente em pastas (PDF, Im
 ## Como usar
 1. Rode o script
 2. Escolha uma pasta
-3. Veja a mágica acontecer 🎩✨
+3. Veja a mágica acontecer 
